@@ -3,6 +3,6 @@ This repository containes the implementation of the paper titled "Uncovering Hid
 
 
 
-For more details contact: 
-mahatatapan2000@gmail.com 
-abhradeepdatta.1994@gmail.com 
+For more details contact: <br/>
+mahatatapan2000@gmail.com <br/>
+abhradeepdatta.1994@gmail.com <br/>
